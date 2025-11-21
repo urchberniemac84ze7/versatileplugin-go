@@ -1,0 +1,2 @@
+# versatileplugin-go
+Python script
